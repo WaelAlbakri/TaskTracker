@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/completed"
+        android:title="Completed"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/overdue"
+        android:title="Overdue"
+        app:showAsAction="never" />
+</menu>
